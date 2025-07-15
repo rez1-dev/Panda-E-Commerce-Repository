@@ -177,3 +177,96 @@ font-family: "Poppins";
 font-size: 36px;
 font-weight: 600;
 }
+
+
+/* Shoe Section*/
+
+.shoe-backpack-parent{
+    background: rgb(244, 244, 244);
+}
+
+
+.shoe-section{
+    background: rgb(244, 244, 244);
+    padding: 50px 0;
+    margin-top: 40px;
+}
+
+
+
+.shoe-card-section{
+    display:flex;
+    justify-content: space-between;
+    gap:15px;
+}
+
+.shoe-card{
+  background: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 25px;
+}
+
+.shoe-card img{
+    width: 336px;
+height: 202px;
+}
+
+.card-price{
+    display: block;
+    font-weight: 500;
+    margin-bottom: 12px;
+    font-size: 22px;
+}
+
+.shoe-card .panda-btn{
+    border-radius: 6px;
+background: rgb(0, 0, 0);
+}
+
+.title{
+    display:flex;
+    padding: 10px 0;
+    margin: auto auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.title h2{
+    color: rgb(31, 31, 31);
+font-family: Poppins;
+font-size: 36px;
+font-weight: 600;
+}
+
+
+.title a{
+    text-decoration: none;
+    color: rgb(255, 157, 0);
+font-family: "Poppins";
+font-size: 20px;
+font-weight: 500;
+}
+
+
+/*Backpack */
+
+.bag-card{
+    background: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 25px;
+}
+
+
+.bag-card img{
+    width: 290px;
+height: 290px;
+
+}
+
+.bag-card .panda-btn{
+    border-radius: 6px;
+background: rgb(0, 0, 0);
+}
